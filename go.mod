@@ -35,9 +35,9 @@ require (
 	gotest.tools/v3 v3.4.0
 	helm.sh/helm/v3 v3.10.1
 	honnef.co/go/tools v0.3.3
-	k8s.io/apimachinery v0.25.3
+	k8s.io/apimachinery v0.25.5
 	k8s.io/cli-runtime v0.25.3
-	k8s.io/client-go v0.25.3
+	k8s.io/client-go v0.25.5
 )
 
 require (
@@ -134,11 +134,11 @@ require (
 	golang.org/x/crypto v0.1.0 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20220218215828-6cf2b201936e // indirect
 	golang.org/x/mod v0.6.0 // indirect
-	golang.org/x/net v0.1.0 // indirect
+	golang.org/x/net v0.3.1-0.20221206200815-1e63c2f08a10 // indirect
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 // indirect
-	golang.org/x/sys v0.1.0 // indirect
-	golang.org/x/term v0.1.0 // indirect
-	golang.org/x/text v0.4.0 // indirect
+	golang.org/x/sys v0.3.0 // indirect
+	golang.org/x/term v0.3.0 // indirect
+	golang.org/x/text v0.5.0 // indirect
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20220502173005-c8bf987b8c21 // indirect
@@ -148,7 +148,7 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	howett.net/plist v0.0.0-20181124034731-591f970eefbb // indirect
-	k8s.io/api v0.25.3 // indirect
+	k8s.io/api v0.25.5 // indirect
 	k8s.io/apiextensions-apiserver v0.25.2 // indirect
 	k8s.io/component-base v0.25.2 // indirect
 	k8s.io/klog/v2 v2.70.1 // indirect
